@@ -1,2 +1,2 @@
 # MyProject
-My self projects
+My Machine Learning and Deep Learning Journey
